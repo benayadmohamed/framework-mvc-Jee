@@ -1,0 +1,342 @@
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T123249.500.html
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T123239.500.html
+
+###
+
+GET http://localhost:8080/framework_war/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-13T123233.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T055632.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054542.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd//
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054539.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054529.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054457.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054451.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054449.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054446.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054255.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054251.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd//
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054144.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo///an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd//
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054141.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo///an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd//
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054137.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd//
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054132.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054129.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054126.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T054123.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T053603.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/waloan/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T053057.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T053037.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T053024.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/waloanajhbcjhbdsdbcjhssdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051812.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051803.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051758.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/waloan/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051740.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/waloan/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051524.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/walo/an/ajhbcjhbd/sdbcjhs/sdcbjhsbcd
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051500.404.html
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051447.200.txt
+
+###
+
+POST http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051438.200.txt
+
+###
+
+POST http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T051436.200.txt
+
+###
+
+POST http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T050927.200.txt
+
+###
+
+PUT http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T050907.405.html
+
+###
+
+POST http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T050901.200.txt
+
+###
+
+POST http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T050857.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T050852.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T032722.200.txt
+
+###
+
+POST http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T032713.200.txt
+
+###
+
+POST http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T032157.200.txt
+
+###
+
+GET http://localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-12T032129.200.txt
+
+###
+
+GET localhost:8080/framework_war/c/user
+Accept: */*
+Cache-Control: no-cache
+
+###
+
